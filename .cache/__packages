@@ -1,0 +1,12 @@
+base
+methods
+datasets
+utils
+grDevices
+graphics
+stats
+devtools
+slidify
+slidifyLibraries
+knitr
+stringr
